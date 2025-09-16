@@ -1,18 +1,18 @@
 {
-  "name": "ddns-telegram-bot",
+  "name": "bililiverecorder-telegram-bot",
   "version": "1.0.0",
-  "description": "A telegram bot for ddns-go",
+  "description": "A telegram bot for BililiveRecorder",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wukibaka/ddns-telegram-bot.git"
+    "url": "git+https://github.com/MIKU552/BililiveRecorder-telegram-bot.git"
   },
-  "author": "wukibaka",
+  "author": "MIKU552 (Original from winglim)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wukibaka/ddns-telegram-bot/issues"
+    "url": "https://github.com/MIKU552/BililiveRecorder-telegram-bot/issues"
   },
-  "homepage": "https://github.com/wukibaka/ddns-telegram-bot#readme",
+  "homepage": "https://github.com/MIKU552/BililiveRecorder-telegram-bot#readme",
   "devDependencies": {
     "@vercel/node": "3.2.7"
   },
