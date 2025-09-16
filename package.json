@@ -17,6 +17,6 @@
     "@vercel/node": "3.2.7"
   },
   "dependencies": {
-    "grammy": "1.28.0"
+    "grammy": "1.38.2"
   }
 }
