@@ -2,7 +2,7 @@
     "redirects": [
         {
             "source": "/",
-            "destination": "https://github.com/wukibaka/ddns-telegram-bot/blob/main/README.md",
+            "destination": "https://github.com/MIKU552/BililiveRecorder-telegram-bot/blob/main/README.md",
             "permanent": true
         }
     ]
