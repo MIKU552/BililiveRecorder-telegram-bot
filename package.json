@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/MIKU552/BililiveRecorder-telegram-bot#readme",
   "devDependencies": {
-    "@vercel/node": "3.2.7"
+    "@vercel/node": "5.3.23"
   },
   "dependencies": {
     "grammy": "1.28.0"
